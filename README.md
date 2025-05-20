@@ -120,4 +120,4 @@ Uma API RESTful voltada à administração municipal, com funcionalidades de aut
 
 ---
 
-Desenvolvido por 
+Desenvolvido por Anderson Freire. 🚀
