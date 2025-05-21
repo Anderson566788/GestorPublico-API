@@ -15,9 +15,9 @@ Uma API RESTful voltada à administração municipal, com funcionalidades de aut
 ## 🛠️ Tecnologias
 
 - Node.js
-- Express.js (dependendo do setup)
+- Express.js
 - MySQL
-- Sequelize (se usado) ou `mysql2`
+- Sequelize (`mysql2`)
 - JWT (`jsonwebtoken`)
 - Bcrypt
 
